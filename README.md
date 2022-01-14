@@ -1,4 +1,4 @@
-# [Hector Frontend](https://app.hectordao.com/)
+# [Venos Frontend](https://app.hectordao.com/)
 This is the front-end repo for Hector that allows users be part of the future of Greece. 
 
 ##  🔧 Setting up Local Development
@@ -8,10 +8,6 @@ Required:
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/) 
 - [Git](https://git-scm.com/downloads)
 
-
-```bash
-$ git clone https://github.com/Hector-DAO/HectorDAO.git
-$ cd hectordao
 
 # set up your environment variables
 # read the comments in the .env files for what is required/optional
